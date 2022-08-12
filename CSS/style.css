@@ -13,4 +13,5 @@ body {
 .hi {
   text-transform: uppercase;
   width: 3px;
+  height: 3px;
 }
